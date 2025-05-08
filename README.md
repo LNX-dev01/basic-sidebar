@@ -1,5 +1,7 @@
 # Proyecto Web Responsivo con Sidebar Personalizado
 
+-[URL](https://lnx-dev01.github.io/basic-sidebar/)
+
 Este es un proyecto web moderno y completamente **responsivo**, construido con tecnologías como **Vite**, **Tailwind CSS v4** y **Bun** como administrador de paquetes.
 
 ---
